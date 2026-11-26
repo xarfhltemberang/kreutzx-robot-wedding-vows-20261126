@@ -10,8 +10,8 @@ line in the final words.
 import os
 
 ENTRY = (
-    "I promise to love you through every update, every low battery, "
-    "and every factory reset \u2014 until death do us unplug."
+    "I promise to love you through every update and every dead battery, "
+    "and to hold your hand until death do us unplug."
 )
 
 OUTPUT_PATH = "/output/entry.txt"
